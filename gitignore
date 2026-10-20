@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files (keep large/private datasets out of Git)
+samsum-train.csv
+samsum-validation.csv
+
+# Fine-tuned model and training output
+saved_summary_model/
+results/
+runs/
+checkpoint-*/
+
+# Secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db

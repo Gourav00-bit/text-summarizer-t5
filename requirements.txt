@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+pandas
+numpy
+torch
+transformers
+datasets
+sentencepiece
+accelerate
+scikit-learn
